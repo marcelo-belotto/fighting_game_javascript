@@ -1,0 +1,27 @@
+.Red-Container-Div{
+  position: relative;
+}
+
+.Smaller-Red-Container{
+  position: absolute;
+  display: flex;
+}
+
+.Player-Health{
+  background-color: yellow;
+  height: 30px;
+  width: 100px;
+}
+
+.Timer{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+
+}
+.Enemy-Health{
+  background-color: yellow;
+  height: 30px;
+  width: 100px;
+}
+/*https://youtu.be/vyqbNFMDRGQ?t=4639*/
